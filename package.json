@@ -1,0 +1,14 @@
+{
+  "name": "suggestcord-website",
+  "version": "1.0.0",
+  "description": "Documentation website for Suggestcord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faris#9999",
+  "license": "ISC",
+  "dependencies": {
+    "docsify-darklight-theme": "^3.0.6"
+  }
+}
