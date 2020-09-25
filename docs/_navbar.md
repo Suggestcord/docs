@@ -2,5 +2,5 @@
 * [Support Server](https://discord.gg/6MnZzkh)
 * Languages
  * [:us: English](https://suggester.js.org/#/)
- * [🇧🇦 Bosanski](https://suggester.js.org/#/ba/)
+ * [:bosnia_herzegovina: Bosanski](https://suggester.js.org/#/ba/)
  * [:globe_with_meridians: Translations](translation.md)
