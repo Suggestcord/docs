@@ -3,4 +3,4 @@
 * Languages
  * [:us: English](https://suggestcord.js.org/#/)
  * [:bosnia_herzegovina: Bosanski](https://suggestcord.js.org/#/ba/)
- * [:globe_with_meridians: Translations](translation.md)
+ * [:globe_with_meridians: Translations](translate.md)
